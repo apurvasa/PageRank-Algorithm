@@ -1,0 +1,275 @@
+Casuarius	0.0036231884057971015: 
+Casuariidae	0.0036231884057971015:  Casuarius
+Casuariiformes	0.0036231884057971015:  Casuariidae Dromaiidae
+Pterocnemia	0.0036231884057971015:  Pterocnemia
+Rhea americana	0.0036231884057971015:  Rhea_americana
+Rhea	0.0036231884057971015:  Rhea_americana|R.&amp;nbsp;americana Rhea_pennata|R.&amp;nbsp;pennata
+Rheidae	0.0036231884057971015:  Heterorhea Hinasuri Pterocnemia Rhea
+Rheiformes	0.0036231884057971015:  Opistodactylidae Rheidae
+Struthio camelus	0.0036231884057971015:  Struthio_camelus
+Struthio	0.0036231884057971015: 
+Struthionidae	0.0036231884057971015:  Palaeotis Struthio
+Homo Sapiens	0.0036231884057971015: 
+Euglenozoa	0.0036231884057971015:  Plicostoma Saccostoma
+Tyranni	0.0036231884057971015:  Eurylaimides Tyrannides
+Passeriformes	0.0036231884057971015:  Acanthisittidae Tyranni Passeri
+Trochiliformes	0.0036231884057971015:  Trochilidae
+Coliiformes	0.0036231884057971015:  Coliidae
+Trogoniformes	0.0036231884057971015:  Trogonidae
+Piciformes	0.0036231884057971015:  Bucconidae Galbulidae Indicatoridae Picidae Ramphastidae
+Coraciiformes	0.0036231884057971015:  Alcedinidae Brachypteraciidae Bucerotidae Coraciidae Leptosomatidae Meropidae Momotidae Phoeniculidae Todidae Upupidae
+Apodiformes	0.0036231884057971015:  Apodidae Hemiprocnidae
+Caprimulgiformes	0.0036231884057971015:  Aegothelidae Caprimulgidae Nyctibiidae Podargidae Steatornithidae
+Strigiformes	0.0036231884057971015:  Strigidae Tytonidae
+Cuculiformes	0.0036231884057971015:  Cuculidae Opisthocomidae
+Psittaciformes	0.0036231884057971015:  Cacatuidae Strigopidae Psittacidae
+Columbiformes	0.0036231884057971015:  Raphidae Columbidae
+Pteroclidiformes	0.0036231884057971015:  Pteroclididae
+Charadriiformes	0.0036231884057971015:  Alcae Charadrii Lari
+Gruiformes	0.0036231884057971015:  Aramidae Cariamidae Eurypygidae Gruidae Heliornithidae Otididae Psophiidae Rallidae Rhynochetidae Parvigruidae Phorusrhacidae
+Turniciformes	0.0036231884057971015:  Turnicidae
+Falconiformes	0.0036231884057971015:  Accipitridae Pandionidae Falconidae Sagittariidae
+Accipitriformes	0.0036231884057971015: 
+Ciconiiformes	0.0036231884057971015:  Ardeidae Balaenicipitidae Cathartidae Ciconiidae Scopidae Threskiornithidae
+Pelecaniformes	0.0036231884057971015:  Anhingidae Fregatidae Pelecanidae Phaethontidae Phalacrocoracidae Sulidae Plotopteridae Prophaethontidae
+Procellariiformes	0.0036231884057971015:  Diomedeidae Hydrobatidae Pelecanoididae Procellariidae
+Podicipediformes	0.0036231884057971015:  Podicipedidae
+Gaviiformes	0.0036231884057971015:  Gaviidae
+Sphenisciformes	0.0036231884057971015:  Spheniscidae Incertae_sedis_Sphenisciformes|''incertae_sedis''
+Galliformes	0.0036231884057971015:  Megapodiidae Cracidae Phasianidae Odontophoridae Numididae Mesitornithidae
+Anseriformes	0.0036231884057971015:  Anatidae Anhimidae Anseranatidae Dromornithidae Presbyornithidae
+Tinamiformes	0.0036231884057971015:  Tinamidae
+Struthioniformes	0.0036231884057971015:  Struthionidae
+Neognathae	0.0036231884057971015:  Anseriformes Apodiformes Caprimulgiformes Charadriiformes Ciconiiformes Coliiformes Columbiformes Coraciiformes Cuculiformes Falconiformes Galliformes Gaviiformes Gruiformes Musophagiformes Passeriformes Pelecaniformes Phoenicopteriformes Piciformes Podicipediformes Procellariiformes Psittaciformes Pteroclidiformes Sphenisciformes Strigiformes Trochiliformes Trogoniformes Turniciformes
+Palaeognathae	0.0036231884057971015:  Ambiortiformes Gansuiformes Palaeocursornithiformes Casuariiformes Dinornithiformes Apterygiformes Rheiformes Lithornithiformes Aepyornithiformes Struthioniformes Tinamiformes
+Caenogastropoda	0.0036231884057971015:  Architaenioglossa Perunelomorpha Sorbeoconcha Caenogastropoda_incertae_sedis|Incertae&amp;nbsp;sedis
+Neritaemorphi	0.0036231884057971015: 
+Orthogastropoda	0.0036231884057971015:  Caenogastropoda Cocculiniformia Heterobranchia Neritopsina Vetigastropoda Orthogastropoda_incertae_sedis|Incertae&amp;nbsp;sedis
+Eogastropoda	0.0036231884057971015:  Eogastropoda Docoglossa Euomphalina Neomphalida Eogastropoda_incertae_sedis|Incertae&amp;nbsp;sedis
+Gastropoda	0.0036231884057971015:  Eogastropoda Orthogastropoda Gastropoda_incertae_sedis|Incertae_sedis
+Anomalodesmata	0.0036231884057971015:  Bivalvia Anomalodesmata Pholadomyoida Septibranchia
+Heterodonta	0.0036231884057971015:  Cycloconchidae Hippuritoida Lyrodesmatidae Myoida Redoniidae Veneroida
+Paleoheterodonta	0.0036231884057971015:  Trigonoidea Unionoida
+Pteriomorphia	0.0036231884057971015:  Arcoida Mytiloida Ostreoida Pterioida
+Protobranchia	0.0036231884057971015:  Protobranchia Nuculoida Praecardioida Solemyoida
+Bivalvia	0.0036231884057971015:  Anomalodesmata Heterodonta Paleoheterodonta Protobranchia Pteriomorphia Modiomorphoida
+Monoplacophora	0.0036231884057971015:  Tryblidiida Cyrtonellida Pelagiellida
+Aplacophora	0.0036231884057971015:  Caudofoveata Solenogastres
+Polyplacophora	0.0036231884057971015:  Acanthochitonina Choriplacina Ischnochitonina Lepidopleurina
+Caudofoveata	0.0036231884057971015:  Chaetodermatidae Falcidentidae Limifossoridae Metachaetodermatidae Prochaetodermatidae Scutopidae
+Sirenia	0.0036231884057971015:  Dugongidae Prorastomidae Protosirenidae Trichechidae
+Elephantidae	0.0036231884057971015: 
+Proboscidea	0.0036231884057971015:  Deinotheriidae Elephantidae Gomphotheriidae Jozaria Mammutidae Moeritheriidae Stegodontidae Incertae_Sedis_(Proboscidea)|Incertae_sedis
+Orycteropodidae	0.0036231884057971015:  Amphiorycteropus Leptorycteropus Myorycteropus Orycteropus
+Tubulidentata	0.0036231884057971015:  Orycteropodidae
+Macroscelididae	0.0036231884057971015:  Elephantulus Macroscelides Petrodromus Rhynchocyon Miosengi
+Macroscelidea	0.0036231884057971015:  Macroscelididae
+Afrosoricida	0.0036231884057971015:  Chrysochloridea Tenrecomorpha
+Artiodactyla	0.0036231884057971015:  Suina Tylopoda Ruminantia
+Perissodactyla	0.0036231884057971015:  Equidae Rhinocerotidae Tapiridae Anchilophidae Brontotheriidae Chalicotheriidae Deperetellidae Eomoropidae Helaletidae Hyracodontidae Isectolophidae Lophialetidae Lophiodontidae Palaeotheriidae
+Pinnipedia	0.0036231884057971015:  Odobenidae Otariidae Phocidae
+Fissipedia	0.0036231884057971015:  Ailuridae Amphicyonidae Canidae Eupleridae Felidae Herpestidae Hyaenidae Mephitidae Mustelidae Nimravidae Procyonidae Ursidae Viverridae
+Carnivora	0.0036231884057971015:  Caniformia Feliformia Miacoidea
+Manidae	0.0036231884057971015: 
+Pholidota	0.0036231884057971015:  Manidae Patriomanidae
+Procaviidae	0.0036231884057971015:  Dendrohyrax Heterohyrax Procavia
+Hyracoidea	0.0036231884057971015:  Procaviidae
+Cetacea	0.0036231884057971015:  Archaeoceti Mysticeti Odontoceti
+Insectivora	0.0036231884057971015: 
+Lagomorpha	0.0036231884057971015:  Leporidae Ochotonidae Prolagidae
+Castorimorpha	0.0036231884057971015:  Castoridae Heteromyidae Geomyidae
+Sciurida	0.0036231884057971015: 
+Hystricognathi	0.0036231884057971015:  Phiomorpha Caviomorpha
+Sciurognathi	0.0036231884057971015:  Geomorpha Myodonta Sciurida
+Rodentia	0.0036231884057971015:  Sciuromorpha Castorimorpha Myomorpha Anomaluromorpha Hystricomorpha Eomyidae Remyidae
+Tupaiidae	0.0036231884057971015:  Anathana Dendrogale Tupaia Urogale
+Scandentia	0.0036231884057971015:  Ptilocercidae Tupaiidae
+Desmostylia	0.0036231884057971015:  Desmostylidae Paleoparadoxiidae
+Xenarthra	0.0036231884057971015:  Cingulata Pilosa
+Diprotodontia	0.0036231884057971015:  Macropodiformes Phalangeriformes Vombatiformes Unassigned_Diprotodontia|Unassigned
+Notoryctemorphia	0.0036231884057971015:  Notoryctidae
+Peramelemorphia	0.0036231884057971015:  Chaeropodidae Peramelidae Thylacomyidae Yaralidae
+Dasyuromorphia	0.0036231884057971015:  Dasyuridae Myrmecobiidae Thylacinidae
+Microbiotheria	0.0036231884057971015:  Microbiotheriidae
+Paucituberculata	0.0036231884057971015:  Caenolestidae Incertae_sedis_(Paucituberculata)|Incertae_sedis
+Didelphimorphia	0.0036231884057971015:  Didelphidae Derorhynchidae Sparassocynidae Unassigned_Didelphimorphia|Unassigned
+Microchiroptera	0.0036231884057971015:  Emballonuroidea Molossoidea Nataloidea Noctilionoidea Rhinolophoidea Rhinopomatoidea Vespertilionoidea
+Megachiroptera	0.0036231884057971015:  Pteropodidae
+Chiroptera	0.0036231884057971015:  Megachiroptera Microchiroptera
+Cynocephalidae	0.0036231884057971015:  Cynocephalus Dermotherium Galeopterus
+Dermoptera	0.0036231884057971015:  Cynocephalidae Mixodectidae Plagiomenidae
+Caenoidea	0.0036231884057971015:  Caenidae Neoephemeridae Prosopistomatidae
+Ephemerelloidea	0.0036231884057971015:  Ephemerellidae Leptohyphidae Mesonetidae Teloganodidae Tricorythidae
+Pannota	0.0036231884057971015:  Ephemerelloidea Caenoidea
+Ephemeroptera	0.0036231884057971015:  Carapacea Furcatergalia Pisciformia Permoplectoptera Protephemeroptera Incertae_Sedis_(Ephemeroptera)|Incertae_Sedis
+Parachaela	0.0036231884057971015:  Beornidae Calohypsibiidae Eohypsibiidae Hypsibiidae Macrobiotidae Microhypsibiidae Necopinatidae
+Apochaela	0.0036231884057971015:  Milnesiidae
+Eutardigrada	0.0036231884057971015:  Apochaela Parachaela
+Latimeriidae	0.0036231884057971015:  Osteichthyes Sarcopterygii Coelacanthiformes Latimeriidae Latimeria Macropoma Swenzia
+Coelacanthiformes	0.0036231884057971015:  Osteichthyes Sarcopterygii Coelacanthiformes Coelacanthidae Latimeriidae Mawsoniidae
+Sarcopterygii	0.0036231884057971015:  Coelacanthimorpha Dipnoi Onychodontida Tetrapoda Tetrapodomorpha
+Acanthodii	0.0036231884057971015:  Climatiiformes Ischnacanthiformes Acanthodiformes
+Placodermi	0.0036231884057971015:  Acanthothoraci Antiarchi Arthrodira Brindabellaspida Petalichthyida Phyllolepida Ptyctodontida Rhenanida
+Petromyzontidae	0.0036231884057971015:  Geotriinae Mordaciinae Petromyzontinae
+Petromyzontiformes	0.0036231884057971015:  Petromyzontidae
+Lepidosireniformes	0.0036231884057971015:  Lepidosirenidae Protopteridae
+Ceratodontiformes	0.0036231884057971015:  Ceratodontiformes Ceratodontidae
+Dipnoi	0.0036231884057971015:  Ceratodontiformes Lepidosireniformes Incertae_sedis_(Dipnoi)|Incertae_sedis
+Regnum	0.0036231884057971015:  Subregnum|Subregnum_1 Subregnum|Subregnum_2 Subregnum|Subregnum_3
+Subregnum	0.0036231884057971015:  Infraregnum|Infraregnum_1 Infraregnum|Infraregnum_2 Infraregnum|Infraregnum_3
+Superphylum	0.0036231884057971015:  Phylum|Phylum_1 Phylum|Phylum_2 Phylum|Phylum_3
+Phylum	0.0036231884057971015:  Subphylum|Subphylum_1 Subphylum|Subphylum_2 Subphylum|Subphylum_3
+Classis	0.0036231884057971015:  Subclassis|Subclassis_1 Subclassis|Subclassis_2 Subclassis|Subclassis_3
+Subclassis	0.0036231884057971015:  Infraclassis|Infraclassis_1 Infraclassis|Infraclassis_2 Infraclassis|Infraclassis_3
+Ordo	0.0036231884057971015:  Main_Page Superregnum Regnum Phylum Classis Superordo Ordo Subordo|Subordo_1 Subordo|Subordo_2 Subordo|Subordo_3
+Subordo	0.0036231884057971015:  Main_Page Superregnum Regnum Phylum Classis Superordo Ordo Subordo Infraordo|Infraordo_1 Infraordo|Infraordo_2 Infraordo|Infraordo_3
+Tobediscussed	0.0036231884057971015: 
+Pterygota	0.0036231884057971015:  basal_Pterygota Metapterygota
+Dicondylia	0.0036231884057971015:  basal_Dicondylia Pterygota
+Apterygota	0.0036231884057971015:  Archaeognatha
+Insecta	0.0036231884057971015:  basal_Insecta Dicondylia
+Acanthopterygii	0.0036231884057971015:  Atherinomorpha Mugilomorpha Percomorpha Cetomimiformes Syngnathiformes
+Paracanthopterygii	0.0036231884057971015:  Percopsiformes Sphenocephaliformes Gadiformes Ophidiiformes Batrachoidiformes Lophiiformes
+Polymixiomorpha	0.0036231884057971015:  Polymixiiformes Ctenothrissiformes
+Lampridiomorpha	0.0036231884057971015:  Lampridiformes
+Scopelomorpha	0.0036231884057971015:  Myctophiformes
+Cyclosquamata	0.0036231884057971015:  Cyclosquamata Aulopiformes
+Stenopterygii	0.0036231884057971015:  Ateleopodiformes Stomiiformes
+Protacanthopterygii	0.0036231884057971015:  Argentiniformes Osmeriformes Salmoniformes Esociformes
+Ostariophysi	0.0036231884057971015:  Characiformes Cypriniformes Gonorynchiformes Gymnotiformes Siluriformes
+Clupeomorpha	0.0036231884057971015:  Clupeiformes
+Elopomorpha	0.0036231884057971015:  Elopiformes Albuliformes Notacanthiformes Anguilliformes Saccopharyngiformes
+Osteoglossomorpha	0.0036231884057971015:  Hiodontiformes Osteoglossiformes
+Teleostei	0.0036231884057971015:  Acanthopterygii Clupeomorpha Cyclosquamata Elopomorpha Lampridiomorpha Ostariophysi Osteoglossomorpha Paracanthopterygii Polymixiomorpha Protacanthopterygii Scopelomorpha Stenopterygii
+Actinopterygii	0.0036231884057971015:  Chondrostei Neopterygii
+Primates	0.0036231884057971015:  Haplorrhini Strepsirrhini Aotidae Atelidae Cebidae Cercopithecidae Cheirogaleidae Daubentoniidae Galagidae Hominidae Hylobatidae Indriidae Lemuridae Lepilemuridae Lorisidae Pitheciidae Tarsiidae
+Chimaeriformes	0.0036231884057971015:  Chimaeroidei
+Holocephali	0.0036231884057971015:  Chimaeriformes
+Selachimorpha	0.0036231884057971015:  Hexanchiformes Squaliformes Pristiophoriformes Squatiniformes Heterodontiformes Orectolobiformes Carcharhiniformes Lamniformes Xenacanthida Symmoriida Cladoselachiformes Eugeneodontida Selachimorpha_incertae_sedis|Incertae_sedis
+Rajomorphii	0.0036231884057971015:  Myliobatiformes Pristiformes Rajiformes Torpediniformes
+Elasmobranchii	0.0036231884057971015:  Rajomorphii Selachimorpha incertae_sedis_Elasmobranchii|incertae_sedis
+Chondrichthyes	0.0036231884057971015:  Elasmobranchii Holocephali
+Cryptorhagae	0.0036231884057971015:  Cateriidae
+Conchorhagae	0.0036231884057971015:  Semnoderidae
+Cyclorhagae	0.0036231884057971015:  Centroderidae Dracoderidae Echinoderidae
+Homalorhagae	0.0036231884057971015:  Pycnophyidae Neocentrophyidae
+Homalorhagida	0.0036231884057971015:  Homalorhagae
+Cyclorhagida	0.0036231884057971015:  Cyclorhagae Conchorhagae Cryptorhagae Protorhagae
+Kinorhyncha	0.0036231884057971015:  Cyclorhagida Homalorhagida
+Cephalorhyncha	0.0036231884057971015:  Ecdysozoa Cephalorhyncha Kinorhyncha Loricifera Nematomorpha Priapulida
+Rhabditida	0.0036231884057971015:  Myolaimina Oxyuridomorpha Rhabditina Spirurina Strongylida Tylenchina Incertae_sedis_(Rhabditida)|Incertae_sedis
+Nematoda	0.0036231884057971015:  Chromadorea Enoplea Incertae_sedis_(Nematoda)|Incertae_sedis
+Pelomedusoidea	0.0036231884057971015:  Pelomedusidae Podocnemididae
+Pleurodira	0.0036231884057971015:  Chelidoidea Pelomedusoidea
+Cryptodira	0.0036231884057971015:  Chelonioidea Kinosternoidea Testudinoidea Trionychoidea Baenidae
+Testudines	0.0036231884057971015:  Cryptodira Paracryptodira Pleurodira Proganochelydia Incertae_sedis_(Testudines)|incertae_sedis
+Amphisbaenia	0.0036231884057971015:  Amphisbaenidae Trogonophidae Bipedidae Rhineuridae
+Platynota	0.0036231884057971015:  Helodermatidae Lanthanotidae Necrosauridae Varanidae
+Diploglossa	0.0036231884057971015:  Anguidae Anniellidae Xenosauridae
+Scincomorpha	0.0036231884057971015:  Scincidae Lacertidae Teiidae Cordylidae Gerrhosauridae Gymnophthalmidae Xantusiidae
+Gekkota	0.0036231884057971015:  Dibamidae Gekkonidae Pygopodidae
+Iguania	0.0036231884057971015:  Agamidae Chamaeleonidae Iguanidae Corytophanidae Crotaphytidae Hoplocercidae Leiocephalidae Leiosauridae Liolaemidae Opluridae Phrynosomatidae Polychrotidae Tropiduridae
+Sauria	0.0036231884057971015:  Diploglossa Gekkota Iguania Platynota Scincomorpha
+Serpentes	0.0036231884057971015:  Caenophidia Henophidia Scolecophidia
+Squamata	0.0036231884057971015:  Amphisbaenia Sauria Serpentes Incertae_sedis_(Squamata)|Incertae_sedis
+Sphenodontidae	0.0036231884057971015:  Sphenodon
+Rhynchocephalia	0.0036231884057971015:  Sphenodontidae
+Eusuchia	0.0036231884057971015:  Alligatoridae Crocodylidae Gavialidae Hylaeochampsidae Stomatosuchidae
+Crocodilia	0.0036231884057971015:  Eusuchia Mesosuchia Protosuchia Sebecosuchia Sphenosuchia Thalattosuchia
+Reptilia	0.0036231884057971015:  Anapsida Diapsida Incertae_sedis_Reptilia|incertae_sedis Crocodilia Rhynchocephalia Squamata Testudines
+Neobatrachia	0.0036231884057971015:  Allophrynidae Amphignathodontidae Aromobatidae Arthroleptidae Brachycephalidae Brevicipitidae Bufonidae Calyptocephalellidae Centrolenidae Ceratobatrachidae Ceratophryidae Craugastoridae Cryptobatrachidae Cycloramphidae Dendrobatidae Dicroglossidae Eleutherodactylidae Heleophrynidae Hemiphractidae Hemisotidae Hylidae Hylodidae Hyperoliidae Leiuperidae Leptodactylidae Limnodynastidae Mantellidae Micrixalidae Microhylidae Myobatrachidae Nasikabatrachidae Nyctibatrachidae Petropedetidae Phrynobatrachidae Pseudidae Ptychadenidae Pyxicephalidae Ranidae Ranixalidae Rhacophoridae Rheobatrachidae Rhinodermatidae Sooglossidae Strabomantidae
+Mesobatrachia	0.0036231884057971015:  Megophryidae Palaeobatrachidae Pelobatidae Pelodytidae Pipidae Rhinophrynidae Scaphiopodidae
+Archaeobatrachia	0.0036231884057971015:  Alytidae Bombinatoridae Leiopelmatidae
+Anura	0.0036231884057971015:  Archaeobatrachia Mesobatrachia Neobatrachia
+Sirenoidea	0.0036231884057971015:  Sirenoidea Sirenidae
+Salamandroidea	0.0036231884057971015:  Ambystomatidae Amphiumidae Dicamptodontidae Plethodontidae Proteidae Rhyacotritonidae Salamandridae
+Cryptobranchoidea	0.0036231884057971015:  Cryptobranchidae Hynobiidae
+Urodela	0.0036231884057971015:  Cryptobranchoidea Salamandroidea Sirenoidea
+Amphibia	0.0036231884057971015:  Labyrinthodontia Lepospondyli Lissamphibia
+Trichoplax	0.0036231884057971015: 
+Aves	0.0036231884057971015:  Carinatae Odontornithes Omnivoropterygiformes Saurornithes Incertae_sedis_Aves|incertae_sedis Anseriformes Apodiformes Apterygiformes Caprimulgiformes Casuariiformes Charadriiformes Ciconiiformes Coliiformes Columbiformes Coraciiformes Cuculiformes Falconiformes Galliformes Gaviiformes Gruiformes Musophagiformes Passeriformes Pelecaniformes Phoenicopteriformes Piciformes Podicipediformes Procellariiformes Psittaciformes Pteroclidiformes Rheiformes Sphenisciformes Strigiformes Struthioniformes Tinamiformes Trochiliformes Trogoniformes Turniciformes
+Placentalia	0.0036231884057971015:  Placentalia Eutheria Afrotheria Euarchontoglires Laurasiatheria Meridiungulata Xenarthra
+Marsupialia	0.0036231884057971015:  Metatheria Dasyuromorphia Didelphimorphia Diprotodontia Microbiotheria Notoryctemorphia Paucituberculata Peramelemorphia Sparassodonta
+Monotremata	0.0036231884057971015:  Ornithorhynchidae Tachyglossidae
+Mammalia	0.0036231884057971015:  Prototheria Theria Incertae_sedis_(Mammalia)|Incertae_sedis Afrosoricida Artiodactyla Carnivora Cetacea Chiroptera Cingulata Dasyuromorphia Dermoptera Didelphimorphia Diprotodontia Erinaceomorpha Hyracoidea Lagomorpha Macroscelidea Microbiotheria Monotremata Notoryctemorphia Paucituberculata Peramelemorphia Perissodactyla Pholidota Pilosa Primates Proboscidea Rodentia Scandentia Sirenia Soricomorpha Tubulidentata
+Onychophora	0.0036231884057971015:  Onychophorida Xenusia Incertae_Sedis_(Onychophora)|Incertae_Sedis
+Echiniscoidea	0.0036231884057971015:  Carphanidae Echiniscidae Echiniscoididae Oreellidae
+Arthrotardigrada	0.0036231884057971015:  Batillipedidae Coronarctidae Halechiniscidae Neostygarctidae Renaudarctidae Stygarctidae
+Heterotardigrada	0.0036231884057971015:  Heterotardigrada Arthrotardigrada Echiniscoidea
+Tardigrada	0.0036231884057971015:  Eutardigrada Heterotardigrada Mesotardigrada
+Entoprocta	0.0036231884057971015:  Loxosomatida Pedicellinida Urnatellida
+Stenolaemata	0.0036231884057971015:  Cyclostomatida Cryptostomida Cystoporida Fenestrida Trepostomatida Hederellida Rhabdomesida
+Ectoprocta	0.0036231884057971015: 
+Phoronidae	0.0036231884057971015:  Phoronis Phoronopsis Altichnus Iotuba Skolithos Talpina
+Phoronida	0.0036231884057971015:  Phoronidae
+Brachiopoda	0.0036231884057971015:  Craniiformea Linguliformea Rhynchonelliformea Incertae_sedis_(Brachiopoda)|incertae_sedis
+Nemertea	0.0036231884057971015:  Anopla Enopla
+Annelida	0.0036231884057971015:  Polychaeta Clitellata Myzostomida Archiannelida
+Mollusca	0.0036231884057971015:  Aplacophora Polyplacophora Monoplacophora Bivalvia Scaphopoda Gastropoda Cephalopoda Rostroconchia Helcionelloida
+Vertebrata	0.0036231884057971015:  Anaspida Conodonta Galeaspida Hyperoartia Gnathostomata_(Vertebrata)|Gnathostomata Osteostraci Pituriaspida Pteraspidomorphi Thelodonti Cephalaspidomorphi Chondrichthyes Osteichthyes Tetrapoda Amphibia Reptilia Aves Mammalia
+Myxinidae	0.0036231884057971015:  Eptatretinae Myxininae Paramyxininae Quadratinae
+Myxiniformes	0.0036231884057971015:  Myxinidae
+Myxini	0.0036231884057971015:  Myxiniformes
+Cephalochordata	0.0036231884057971015:  Leptocardia
+Urochordata	0.0036231884057971015:  Ascidiacea Larvacea Thaliacea Sorberacea
+Chordata	0.0036231884057971015:  Cephalochordata Chordata_Craniata|Craniata Urochordata Calcichordata
+Hemichordata	0.0036231884057971015:  Enteropneusta Graptolithina Pterobranchia Hemichordata_incertae_sedis|''incertae_sedis''
+Echinodermata	0.0036231884057971015:  Eleutherozoa Homalozoa Pelmatozoa Asteroidea Crinoidea Echinoidea Holothuroidea Ophiuroidea
+Chaetognatha	0.0036231884057971015:  Archisagittoidea Sagittoidea
+Deuterostomia	0.0036231884057971015:  Chordata Echinodermata Hemichordata Xenoturbellida Vetulicolia
+Myriapoda	0.0036231884057971015:  Chilopoda Diplopoda Pauropoda Symphyla Arthropleuridea
+Chelicerata	0.0036231884057971015:  Arachnida Merostomata Pycnogonida Eurypterida
+Crustacea	0.0036231884057971015:  Branchiopoda Cephalocarida Malacostraca Maxillopoda Ostracoda Remipedia
+Trilobita	0.0036231884057971015:  Agnostida Asaphida Corynexochida Harpetida Lichida Phacopida Proetida Ptychopariida Redlichiida Incertae_Sedis_(Trilobita)|Incertae&amp;nbsp;Sedis
+Trilobitomorpha	0.0036231884057971015:  Trilobita
+Euarthropoda	0.0036231884057971015: 
+Ecdysozoa	0.0036231884057971015:  Cycloneuralia Panarthropoda Arthropoda Kinorhyncha Loricifera Nematoda Nematomorpha Onychophora Priapulida Tardigrada
+Protostomia	0.0036231884057971015:  Ecdysozoa Spiralia Acanthocephala Annelida Arthropoda Brachiopoda Bryozoa Cycliophora Echiura Entoprocta Gastrotricha Gnathostomulida Kinorhyncha Loricifera Micrognathozoa Mollusca Myzostomida Nematoda Nematomorpha Nemertea Onychophora Phoronida Platyhelminthes Priapulida Rotifera Sipuncula Tardigrada
+Nuda	0.0036231884057971015:  Beroida
+Lobata	0.0036231884057971015:  Bathocyroidae Bolinopsidae Eurhamphaeidae Kiyohimeidae Lampoctenidae Leucotheidae Lobatolampeidae Ocyropsidae Lobata_with_uncertain_affinity
+Tentaculata	0.0036231884057971015:  Cyclocoela Typhlocoela Incertae_sedis_Tentaculata|incertae_sedis
+Ctenophora	0.0036231884057971015:  Tentaculata Nuda Extinct_Ctenophora
+Pelmatosphaera	0.0036231884057971015: 
+Pelmatosphaeridae	0.0036231884057971015: 
+Rhopaluridae	0.0036231884057971015: 
+Orthonectida	0.0036231884057971015:  Pelmatosphaeridae Rhopaluridae
+Placozoa	0.0036231884057971015:  Trichoplacidae
+Calcinea	0.0036231884057971015: 
+Calcaria	0.0036231884057971015: 
+Porifera	0.0036231884057971015: 
+Calcaronea	0.0036231884057971015:  Baeriida Leucosoleniida Lithonida
+Calcinea	0.0036231884057971015:  Clathrinida Murrayonida
+Calcaria	0.0036231884057971015: 
+Porifera	0.0036231884057971015:  Archaeocyatha Calcarea Demospongiae Hexactinellida Sclerospongiae Incertae_sedis_Porifera|Incertae_sedis
+Parazoa	0.0036231884057971015: 
+Carybdea	0.0036231884057971015: 
+Tamoya	0.0036231884057971015: 
+Animalia	0.0036231884057971015: 
+Tripedalia	0.0036231884057971015: 
+Manokia	0.0036231884057971015: 
+Carukia	0.0036231884057971015: 
+Chiropsalmus	0.0036231884057971015: 
+Chirodropus	0.0036231884057971015: 
+Chirosoides	0.0036231884057971015: 
+Chironex	0.0036231884057971015: 
+Carybdeidae	0.0036231884057971015:  Carybdea Manokia Tripedalia
+Chirodropidae	0.0036231884057971015:  Chirodectes Chirodropus Chironex Chiropsalmus Chiropsella Chirosoides
+Cubozoa	0.0036231884057971015:  Carybdeida Chirodropida Cubomedusae
+Ptychodacteae	0.0036231884057971015:  Preactiidae Ptychodactiidae
+Protantheae	0.0036231884057971015:  Protantheae Gonactiniidae
+Thenaria	0.0036231884057971015:  Nyantheae Thenaria Acontiaria Endomyaria Mesomyaria
+Boloceroidaria	0.0036231884057971015:  Nyantheae Boloceroidaria Boloceroididae Nevadneidae
+Athenaria	0.0036231884057971015:  Nyantheae Athenaria Andresiidae Andwakiidae Edwardsiidae Galatheanthemidae Halcampidae Halcampoididae Haliactiidae Haloclavidae Limnactiniidae Octineonidae
+Nyantheae	0.0036231884057971015:  Nyantheae Athenaria Boloceroidaria Thenaria
+Endocoelantheae	0.0036231884057971015:  Endocoelantheae Actinernidae Halcuriidae
+Actiniaria	0.0036231884057971015:  Hexacorallia Actiniaria Endocoelantheae Nyantheae Protantheae Ptychodacteae
+Hexacorallia	0.0036231884057971015:  Actiniaria Antipatharia Ceriantharia Corallimorpharia Rugosa Scleractinia Tabulata Zoantharia
+Sessiliflorae	0.0036231884057971015:  Anthoptilidae Chunellidae Echinoptilidae Funiculinidae Kophobelemnidae Protoptilidae Renillidae Scleroptilidae Stachyptilidae Umbellulidae Veretillidae
+Pennatulacea	0.0036231884057971015:  Sessiliflorae Subselliflorae
+Alcyonaria (Octocorallia)	0.0036231884057971015:  Alcyonacea Helioporacea Pennatulacea
+Anthozoa	0.0036231884057971015:  Alcyonaria_(Octocorallia) Hexacorallia
+Cnidaria	0.0036231884057971015:  Anthozoa Hydrozoa Medusozoa Anthozoa Hydrozoa Cubozoa Scyphozoa Staurozoa
+Metazoa	0.0036231884057971015: 
+Agnotozoa	0.0036231884057971015: 
+Parazoa	0.0036231884057971015:  Parazoa Porifera
+Homo sapiens	0.0036231884057971015: 
